@@ -30,7 +30,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: (https://github.com/iammiracle01/order-summary)
-- Live Site URL: (https://iammiracle01.github.io/Responsive-Huddle-Landing-Page/)
+- Live Site URL: (https://iammiracle01.github.io/order-summary/)
 
 ## My process
 1. First of all, I started out with the normal HTMl semantic structure(head, body.....footer).
